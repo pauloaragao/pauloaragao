@@ -49,11 +49,12 @@ These are some of the technologies and tools that I work with:
   <a href="https://github.com/pauloaragao">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pauloaragao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaragao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=dark"/>
 </div>
   
   ##
  
- ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=gotham)
+
   
   <div> 
   <a href="https://www.youtube.com/channel/UCSWYkEIv1J4az83ZciCmzlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
