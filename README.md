@@ -15,7 +15,7 @@ These are some of the technologies and tools that I work with:
   - Database: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
  
 ✅ Hardware Skills:
-  - Microcontrollers: ![ESP32](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/-Raspberry-pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+  - Microcontrollers: ![ESP32](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
   - IoT sensing;
 
 ✅ Soft Skills:
