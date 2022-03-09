@@ -2,6 +2,12 @@
 
 - I’m currently working on [@bktelecom](https://www.linkedin.com/company/bk-telecomunica%C3%A7%C3%B5es) with DevOps, Docker, Git and Python. 
 
+These are some of the technologies and tools that I work with:
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ## ⚡ Technologies
 ✅ Software Skills:
   - Programming languages: C, Python, Shell e PHP
@@ -12,9 +18,11 @@
   - Git
   - MySQL
  
-✅ Hardware Skills::
+✅ Hardware Skills:
   - Microcontrollers: ESP32, Arduíno, Raspberry Pi e PIC;
   - IoT sensing;
+
+✅ Soft Skills:
 
 🌱 Study skills:
   - IaC (Terraform, Ansible e Packer);
@@ -41,6 +49,8 @@
 </div>
   
   ##
+ 
+ ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=gotham)
   
   <div> 
   <a href="https://www.youtube.com/channel/UCSWYkEIv1J4az83ZciCmzlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
