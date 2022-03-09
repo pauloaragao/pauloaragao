@@ -16,7 +16,7 @@ These are some of the technologies and tools that I work with:
  
 ✅ Hardware Skills:
   - Microcontrollers: ![ESP32](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-  - ![IoT sensing](https://img.shields.io/badge/-iot-sensing-A22846?style=flat-square&logo=iotsensing&logoColor=white)
+  - ![IoT sensing](https://img.shields.io/badge/iotsensing-A22846?style=flat-square&logo=iotsensing&logoColor=white)
  
 ✅ Soft Skills:
   - Ethical principles;
