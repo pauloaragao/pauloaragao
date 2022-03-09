@@ -3,25 +3,25 @@
 - I’m currently working on [@bktelecom](https://www.linkedin.com/company/bk-telecomunica%C3%A7%C3%B5es) with DevOps, Docker, Git and Python. 
 
 ## ⚡ Technologies
-✅ Habilidades em Software:
-  - Linguagens de Programação: C, Python, Shell e PHP
+✅ Software Skills:
+  - Programming languages: C, Python, Shell e PHP
   - Linux 
-  - Monitoramento (Grafana, InfluxDB e Zabbix)
-  - Container (Docker - em ambiente de desenvolvimento)
+  - Monitoring: Grafana, InfluxDB e Zabbix
+  - Container: Docker - in development environment
   - MQTT
   - Git
   - MySQL
  
-✅ Habilidades em Hardware:
-  - Microcontroladores: ESP32, Arduíno, Raspberry Pi e PIC;
-  - Sensoriamento IoT;
+✅ Hardware Skills::
+  - Microcontrollers: ESP32, Arduíno, Raspberry Pi e PIC;
+  - IoT sensing;
 
-🌱 Habilidades em estudos:
+🌱 Study skills:
   - IaC (Terraform, Ansible e Packer);
   - AWS
   - Kubernetes 
 
-🏔️ Trilheiro, motociclista e gamer
+🏔️ Hobby: Hiker, Biker and Gamer
 
 <div align="center">
   <a href="https://github.com/pauloaragao">
