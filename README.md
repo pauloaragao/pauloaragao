@@ -8,14 +8,14 @@ These are some of the technologies and tools that I work with:
 ✅ Software Skills:
   - Programming languages: C, ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), Shell e ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-  - Monitoring: ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=black), InfluxDB e Zabbix
+  - Monitoring: ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=black), ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) e Zabbix
   - Container: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  - MQTT
+  - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=blac)
   - Git: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=black)
   - Database: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
  
 ✅ Hardware Skills:
-  - Microcontrollers: ESP32, Arduíno, Raspberry Pi e PIC;
+  - Microcontrollers: ![ESP32](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/-Raspberry-pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
   - IoT sensing;
 
 ✅ Soft Skills:
