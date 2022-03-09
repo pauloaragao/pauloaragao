@@ -16,7 +16,7 @@ These are some of the technologies and tools that I work with:
  
 ✅ Hardware Skills:
   - Microcontrollers: ![ESP32](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=white), ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-  - ![IoT sensing](https://img.shields.io/badge/iotsensing-A22846?style=flat-square&logo=iotsensing&logoColor=white)
+  - ![IoT sensing](https://img.shields.io/badge/-iotsensor-22ADF6?style=flat-square&logo=iot-sensor)
  
 ✅ Soft Skills:
   - Ethical principles;
@@ -28,9 +28,11 @@ These are some of the technologies and tools that I work with:
   - Team work;
 
 🌱 Study skills:
-  - IaC (Terraform, Ansible e Packer);
-  - AWS
-  - Kubernetes 
+  - ![Terraform](https://img.shields.io/badge/-terraform-7B42BC?style=flat-square&logo=terraform)
+  - ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible)
+  - ![Packer](https://img.shields.io/badge/-Packer-black?style=flat-square&logo=packer)
+  - ![Amazon AWS](https://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=amazonaws)
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes)
 
 🏔️ Hobby: Hiker, Biker and Gamer
 
