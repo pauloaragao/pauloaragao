@@ -23,6 +23,13 @@ These are some of the technologies and tools that I work with:
   - IoT sensing;
 
 ✅ Soft Skills:
+  - Ethical principles;
+  - Team work;
+  - Communication;
+  - Flexibility;
+  - Positive attitude;
+  - Motivation;
+  - Team work;
 
 🌱 Study skills:
   - IaC (Terraform, Ansible e Packer);
