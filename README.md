@@ -53,8 +53,8 @@ These are some of the technologies and tools that I work with:
   
   ##
   
-  
- ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=dark)
+
+  ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=dark)
 
   
   <div> 
