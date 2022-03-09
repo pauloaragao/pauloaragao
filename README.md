@@ -44,17 +44,6 @@ These are some of the technologies and tools that I work with:
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaragao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Paulo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paulo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Paulo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Paulo-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="Paulo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif">
-</div>
-  
   ##
  
  ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=gotham)
