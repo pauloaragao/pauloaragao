@@ -1,7 +1,5 @@
 ### Oi, eu sou Paulo Aragão
 
-💻 DevOps | Docker | Linux | IoT | Back-end
-
 🎓 Engenheiro de Computação e Técnico em Eletrônica
 
 ✅ Habilidades em Software:
@@ -12,6 +10,7 @@
   - MQTT
   - Git
   - MySQL
+ 
 ✅ Habilidades em Hardware:
   - Microcontroladores: ESP32, Arduíno, Raspberry Pi e PIC;
   - Sensoriamento IoT;
