@@ -32,7 +32,7 @@ These are some of the technologies and tools that I work with:
   - ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible)
   - ![Packer](https://img.shields.io/badge/-Packer-black?style=flat-square&logo=packer)
   - ![Amazon AWS](https://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=amazonaws)
-  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes)
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black)
 
 🏔️ Hobby: Hiker, Biker and Gamer
 
