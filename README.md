@@ -1,5 +1,8 @@
-### Oi, eu sou Paulo Aragão
+### Hi there, I'm Paulo Aragão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+- I’m currently working on [@bktelecom](https://www.linkedin.com/company/bk-telecomunica%C3%A7%C3%B5es) with DevOps, Docker, Git and Python. 
+
+## ⚡ Technologies
 ✅ Habilidades em Software:
   - Linguagens de Programação: C, Python, Shell e PHP
   - Linux 
