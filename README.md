@@ -1,8 +1,14 @@
 ### Hi there, I'm Paulo Aragão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <div> 
+  <a href="https://www.youtube.com/channel/UCSWYkEIv1J4az83ZciCmzlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pauloaragaoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pauloaragaoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+✉ pauloaragao@live.com
+  
+📳 +55 79 99195-1185
 
-- I’m currently working on [@bktelecom](https://www.linkedin.com/company/bk-telecomunica%C3%A7%C3%B5es) with DevOps, Docker, Git and Python. 
-
-These are some of the technologies and tools that I work with:
+ I’m currently working on [@bktelecom](https://www.linkedin.com/company/bk-telecomunica%C3%A7%C3%B5es) with DevOps, Docker, Git and Python. These are some of the technologies and tools that I work with:
 
 ## ⚡ Technologies
 ✅ Software Skills:
@@ -48,8 +54,5 @@ These are some of the technologies and tools that I work with:
   ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=dark)
 
   
-  <div> 
-  <a href="https://www.youtube.com/channel/UCSWYkEIv1J4az83ZciCmzlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/pauloaragaoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pauloaragaoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
