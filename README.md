@@ -1,7 +1,5 @@
 ### Oi, eu sou Paulo Aragão
 
-🎓 Engenheiro de Computação e Técnico em Eletrônica
-
 ✅ Habilidades em Software:
   - Linguagens de Programação: C, Python, Shell e PHP
   - Linux 
