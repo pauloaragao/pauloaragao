@@ -12,7 +12,7 @@
 
 ## ⚡ Technologies
 ✅ Software Skills:
-  - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white) ![Sell](https://img.shields.io/badge/-shell-3776AB?style=flat-square&logo=shell&logoColor=white)
+  - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-bash-3776AB?style=flat-square&logo=bash&logoColor=white)
   - Operational systems: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
   - Monitoring: ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=black) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)![Zabbix](https://img.shields.io/badge/-Zabbix-22ADF6?style=flat-square&logo=zabbix&logoColor=white)
   - Container: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
