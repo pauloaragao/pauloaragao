@@ -51,8 +51,8 @@
   ##
   
 
-  ![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=dark)
 
+[![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao)](https://github.com/anuraghazra/github-readme-stats)
   
 
  
