@@ -53,5 +53,5 @@
   
 [![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pauloaragao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-
+![Snake animation](https://github.com/pauloaragao/pauloaragao/blob/output/github-contribution-grid-snake.svg)
  
