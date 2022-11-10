@@ -8,7 +8,7 @@
   
 📳 +55 79 99195-1185
 
- I’m currently working on [@bktelecom](https://www.linkedin.com/company/bk-telecomunica%C3%A7%C3%B5es) with DevOps, Docker, Git and Python. These are some of the technologies and tools that I work with:
+ I’m currently working on [@capgemini](https://www.linkedin.com/company/capgemini/) with Solution Architecture and Release Management. These are some of the technologies and tools that I work with:
 
 ## ⚡ Technologies
 ✅ Software Skills:
