@@ -4,9 +4,9 @@
   <a href="https://www.instagram.com/pauloaragaoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pauloaragaoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-✉ pauloaragao@live.com
+✉ eng.pauloaragao@gmail.com
   
-📳 +55 79 99195-1185
+📳 +55 21 99600-1185
 
  I’m currently working on [@capgemini](https://www.linkedin.com/company/capgemini/) with Solution Architecture and Release Management. These are some of the technologies and tools that I work with:
 
