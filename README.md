@@ -18,6 +18,10 @@
   - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=blac)
   - Git: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=black)
   - Database: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  - ![Terraform](https://img.shields.io/badge/-terraform-7B42BC?style=flat-square&logo=terraform)
+  - ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible)
+  - ![Packer](https://img.shields.io/badge/-Packer-black?style=flat-square&logo=packer)
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black)
  
 ✅ Hardware Skills:
   - Microcontrollers: ![ESP32](https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=Espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -32,12 +36,6 @@
   - Motivation;
   - Team work;
 
-🌱 Study skills:
-  - ![Terraform](https://img.shields.io/badge/-terraform-7B42BC?style=flat-square&logo=terraform)
-  - ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible)
-  - ![Packer](https://img.shields.io/badge/-Packer-black?style=flat-square&logo=packer)
-  - ![Amazon AWS](https://img.shields.io/badge/-Amazonaws-232F3E?style=flat-square&logo=amazonaws)
-  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black)
 
 🏔️ Hobby: Hiker, Biker and Gamer
 
