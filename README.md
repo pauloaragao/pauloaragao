@@ -1,9 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1A1A1A&height=180&section=header&text=Paulo%20Aragão&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
   <b>DevOps & Cloud Engineer • SRE • Automation • Observability</b>
 </p>
 
