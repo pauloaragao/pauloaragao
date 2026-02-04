@@ -1,33 +1,55 @@
-### Hi there, I'm Paulo Aragão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- <div> 
-  <a href="https://www.linkedin.com/in/pauloaragaoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-✉ eng.pauloaragao@gmail.com
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1A1A1A&height=180&section=header&text=Paulo%20Aragão&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# 👋 Hi, I'm Paulo Aragão
+<p align="center">
+  <b>DevOps & Cloud Engineer • SRE • Automation • Observability</b>
+</p>
 
-DevOps & Cloud Engineer passionate about automation, observability, and building scalable, reliable systems. I enjoy transforming complex environments into efficient, well‑documented, and resilient platforms through modern DevOps practices and cloud-native technologies.
+---
+
+## 📛 Badges
+
+<p align="center">
+  <!-- Skills -->
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 👋 About Me
+
+DevOps & Cloud Engineer passionate about automation, observability, and building scalable, resilient systems.  
+I enjoy transforming complex environments into efficient, well‑documented, and reliable platforms using modern DevOps practices and cloud‑native technologies.
 
 ---
 
 ## 🧠 Hard Skills
 
 ### **Cloud & Infrastructure**
-- AWS (EC2, S3, IAM, Lambda, CloudWatch)
-- Azure (Fundamentals, AI, Data)
-- Linux administration
-- Networking fundamentals
+- AWS (EC2, S3, IAM, Lambda, CloudWatch)  
+- Azure (Fundamentals, AI, Data)  
+- Linux administration  
+- Networking fundamentals  
 
 ### **DevOps & SRE**
 - Kubernetes & container orchestration  
-- Terraform & Infrastructure as Code  
+- Terraform (IaC)  
 - Ansible automation  
 - CI/CD pipelines (GitHub Actions, Jenkins)  
 - Monitoring & Observability (Dynatrace, Grafana, Elastic, Zabbix)  
-- Logging, metrics, tracing, and performance analysis  
+- Performance analysis, metrics, logs, tracing  
 
 ### **Programming & Automation**
-- Python (Flask, scripting, automation services)  
+- Python (Flask, automation services, scripting)  
 - Shell scripting  
 - API integrations  
 - IoT development (ESP32, Raspberry Pi, Arduino)
@@ -43,25 +65,53 @@ DevOps & Cloud Engineer passionate about automation, observability, and building
 ## 🧩 Soft Skills
 
 - Strong communication and cross‑team collaboration  
-- Problem‑solving mindset with analytical thinking  
-- Ownership and accountability in complex environments  
+- Analytical and problem‑solving mindset  
+- Ownership and accountability  
 - Continuous learning and adaptability  
-- Leadership in documentation culture and process improvement  
-- Ability to translate technical concepts for non‑technical audiences  
+- Leadership in documentation culture  
+- Ability to translate technical concepts clearly  
 - Proactive approach to automation and efficiency  
 
 ---
 
-## 🎯 What I Care About
+## 🎓 Certifications
 
-- Building reliable, observable, and maintainable systems  
-- Reducing manual work through automation  
-- Sharing knowledge and improving team processes  
-- Designing cloud‑native solutions with long‑term scalability  
+- **Microsoft Azure Fundamentals**  
+- **Azure AI Fundamentals**  
+- **Azure Data Fundamentals**  
+- **AWS Cloud Practitioner (2025–2028)**  
 
 ---
 
 ## 🌐 Languages
-- English — Professional proficiency  
-- Portuguese — Native  
 
+- **English:** Professional proficiency  
+- **Portuguese:** Native  
+
+---
+
+## 🔗 Useful Links
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pauloaragaoo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pauloaragaoo">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pauloaragaoo&show_icons=true&theme=github_dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaragaoo&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0A66C2&height=120&section=footer" />
+</p>
