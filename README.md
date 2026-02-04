@@ -102,16 +102,3 @@ I enjoy transforming complex environments into efficient, well‑documented, and
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pauloaragaoo&show_icons=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaragaoo&layout=compact&theme=github_dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0A66C2&height=120&section=footer" />
-</p>
